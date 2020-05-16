@@ -10,7 +10,8 @@ GROUP MEMBER
 -
 ID  | Name Surname | Github |
 ----- | ---------- | -------|
+62070049 | Chotichan Vichitkawe |https://github.com/Jokerbm|
 62070069 | Nicharee Bawornrattanawong |https://github.com/wzzenb|
 62070130 | Pongpera Wongsamran |https://github.com/5hoEi-ux|
 62070132 | Pornteera Pakdee |https://github.com/Pornteera0504|
-62070160 | Lalitwade Singsoot|
+62070160 | Lalitwade Singsoot|https://github.com/Lalitwadee
